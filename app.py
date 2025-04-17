@@ -1,1 +1,2 @@
-print("starkljlmkt")
+while(1):
+    print("tama")
